@@ -74,20 +74,20 @@
 /I Runtime\TraceLog\Public\Trace
 /I Runtime\TraceLog\Public\Trace\Detail
 /I Runtime\TraceLog\Public\Trace\Detail\Protocols
-/I "C:\Users\Antonio\Documents\Unreal Projects\GDS212(Islands)\islandsfloats\GDS212_Template\Intermediate"
-/I "C:\Users\Antonio\Documents\Unreal Projects\GDS212(Islands)\islandsfloats\GDS212_Template\Intermediate\Source"
+/I "C:\Unreal Engine\floatingislands\islandsfloats\GDS212_Template\Intermediate"
+/I "C:\Unreal Engine\floatingislands\islandsfloats\GDS212_Template\Intermediate\Source"
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\Users\Antonio\Documents\Unreal Projects\GDS212(Islands)\islandsfloats\GDS212_Template\Intermediate\Build\Win64\GDS212_Template\Shipping\Core\SharedPCH.Core.h"
-/Yu"C:\Users\Antonio\Documents\Unreal Projects\GDS212(Islands)\islandsfloats\GDS212_Template\Intermediate\Build\Win64\GDS212_Template\Shipping\Core\SharedPCH.Core.h"
-/Fp"C:\Users\Antonio\Documents\Unreal Projects\GDS212(Islands)\islandsfloats\GDS212_Template\Intermediate\Build\Win64\GDS212_Template\Shipping\Core\SharedPCH.Core.h.pch"
-"C:\Users\Antonio\Documents\Unreal Projects\GDS212(Islands)\islandsfloats\GDS212_Template\Intermediate\Source\GDS212_Template.cpp"
-/FI"C:\Users\Antonio\Documents\Unreal Projects\GDS212(Islands)\islandsfloats\GDS212_Template\Intermediate\Build\Win64\UE4\Shipping\GDS212_Template\Definitions.GDS212_Template.h"
-/Fo"C:\Users\Antonio\Documents\Unreal Projects\GDS212(Islands)\islandsfloats\GDS212_Template\Intermediate\Build\Win64\UE4\Shipping\GDS212_Template\GDS212_Template.cpp.obj"
+/FI"C:\Unreal Engine\floatingislands\islandsfloats\GDS212_Template\Intermediate\Build\Win64\GDS212_Template\Shipping\Core\SharedPCH.Core.h"
+/Yu"C:\Unreal Engine\floatingislands\islandsfloats\GDS212_Template\Intermediate\Build\Win64\GDS212_Template\Shipping\Core\SharedPCH.Core.h"
+/Fp"C:\Unreal Engine\floatingislands\islandsfloats\GDS212_Template\Intermediate\Build\Win64\GDS212_Template\Shipping\Core\SharedPCH.Core.h.pch"
+"C:\Unreal Engine\floatingislands\islandsfloats\GDS212_Template\Intermediate\Source\GDS212_Template.cpp"
+/FI"C:\Unreal Engine\floatingislands\islandsfloats\GDS212_Template\Intermediate\Build\Win64\UE4\Shipping\GDS212_Template\Definitions.GDS212_Template.h"
+/Fo"C:\Unreal Engine\floatingislands\islandsfloats\GDS212_Template\Intermediate\Build\Win64\UE4\Shipping\GDS212_Template\GDS212_Template.cpp.obj"
 /TP
 /GR-
 /W4
